@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serdarildercaglar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analyze, Machine Learning, Deep Learning
+- 🌱 I’m currently working on Machine Learning, Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me serdarildercaglar@gmail.com
 
